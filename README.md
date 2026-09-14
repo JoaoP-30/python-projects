@@ -84,8 +84,8 @@ python-projects/
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [@JoaoP-30](https://github.com/JoaoP-30)
+- LinkedIn: [João Fernandes](https://linkedin.com/in/joao-fernandes-30si07)
 
 ---
 
