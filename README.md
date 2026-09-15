@@ -44,7 +44,7 @@ Este repositório reúne projetos de diferentes níveis de complexidade, criados
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/python-projects.git
+   git clone https://github.com/JoaoP-30/python-projects.git
    ```
 2. Acesse a pasta do projeto desejado:
    ```bash
